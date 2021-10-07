@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LOEELindsay
+- 👋 Hi, I’m EELindsay
 - 👀 I'm a learner
 - 🌱 I’m currently learning how to code 
 - 💞️ I’m testing out how to use Github
